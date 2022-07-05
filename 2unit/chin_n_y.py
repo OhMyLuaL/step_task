@@ -1,7 +1,3 @@
-from pickle import APPEND
-from unittest import result
-
-
 year = int(input())
 
 years = ['Обезьяна', 'Петух', 'Собака', 'Свинья', 'Крыса', 'Бык', 'Тигр', 'Заяц', 'Дракон', 'Змея', 'Лошадь', 'Овца']
