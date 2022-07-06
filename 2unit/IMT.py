@@ -1,8 +1,4 @@
 #IMT 
-
-from re import I
-
-
 weight = float(input('Введите массу '))
 height = float(input('Введите рост '))
 
