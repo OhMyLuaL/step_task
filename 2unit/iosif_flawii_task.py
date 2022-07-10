@@ -8,4 +8,4 @@ def flawii():
         result = (result + k) % i
     print(result + 1)
 
-flawii()
+flawii() 
